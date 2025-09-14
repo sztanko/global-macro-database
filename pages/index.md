@@ -1,6 +1,7 @@
 ---
-title: Global Macro Database - GDP Analysis
-description: Analysis of global GDP trends from the Global Macro Database
+title: Macroeconomic Variables and Their Causal Relationship with Money Laundering
+
+description: Analysis of insight from the Global Macro Database (GMD) to understand how macroeconomic variables influence money laundering activities.
 ---
 
 
