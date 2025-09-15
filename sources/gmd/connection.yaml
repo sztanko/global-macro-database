@@ -1,5 +1,6 @@
-# This file was automatically generated
-name: gmd
 type: duckdb
+name: gmd
 options:
   filename: gmd.duckdb
+plugins:
+  datasources:
