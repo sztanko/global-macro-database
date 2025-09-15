@@ -1,2 +1,2 @@
-select * from gmd
-SELECT * FROM "Basel" LIMIT 100
+SELECT * FROM "Basel" LIMIT 100;
+SELECT * FROM "Basel" LIMIT 100 OFFSET 1700;
