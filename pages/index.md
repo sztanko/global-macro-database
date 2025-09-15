@@ -274,11 +274,9 @@ Here we can see that regions with higher average GDP tend to have lower median i
 An exploration of the Financial Action Task Force's (FATF) risk assessments to establish a critical baseline for our research.
 
 ```sql basel_risk_assessment
-SELECT 
-    * 
-FROM 
-    'static/Basel.csv'
+SELECT * FROM Basel LIMIT 100;
 ```
+
 ------
 
 ### **4. 🔗 Connecting the Dots: A Data-Driven Linkage**
