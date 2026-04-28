@@ -1,6 +1,6 @@
 # Global Macro Database Dashboard Task
 
-Objective: Analyze Globa Macro Database data.
+Objective: Analyze Global Macro Database data.
 
 **What:** https://www.globalmacrodata.com/data.html
 
